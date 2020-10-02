@@ -1,6 +1,6 @@
 This is the source code for http://randomiseme.org
 
-### Contributing
+### Contributing - Together we help
 
 Development environment as a vagrant VM available [here](https://github.com/openhealthcare/developer)
 
